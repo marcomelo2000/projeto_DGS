@@ -1,2 +1,2 @@
-# projeto_DGS
+# projeto_DCS
 Este é o nosso projeto
